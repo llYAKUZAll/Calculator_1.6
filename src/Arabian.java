@@ -41,7 +41,7 @@ public class Arabian {
                     break;
                 default:
                     throw new Exception("Неверный знак операции");
-                    
+
             }
                 return result;
         }
